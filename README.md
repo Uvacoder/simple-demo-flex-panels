@@ -2,7 +2,7 @@
 
 ## [View Application Here](https://dynamic-flex-panels.netlify.com/)
 
-![Flex Panels Gif]( "Flex Panels Gif")
+![Flex Panels Gif](https://github.com/chrisstaudinger/Flex-Panels/blob/master/assets/images/flex-panels.gif?raw=true "Flex Panels Gif")
 
 ### Tech Stack
 
