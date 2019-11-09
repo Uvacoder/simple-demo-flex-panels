@@ -1,6 +1,6 @@
 # Flex Panels 📷
 
-## [View Application Here](https://js-autocomplete-typing-api.netlify.com/?_ga=2.185454624.829762167.1573182228-394698580.1567312295)
+## [View Application Here](https://dynamic-flex-panels.netlify.com/)
 
 ![Flex Panels Gif]( "Flex Panels Gif")
 
